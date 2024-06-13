@@ -1,0 +1,68 @@
+﻿@model IEnumerable<HotelBookingsWeb.Models.CustomerReservation>
+@{
+    ViewData["Title"] = "AllReservations";
+}
+
+<h2>All Reservations</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateBooking")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(x => x.Customer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.Contact)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.StartDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.EndDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.BookingDays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.Property)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.Room)
+        </th>
+    </tr>
+    @foreach (var staff in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(x => staff.Customer)
+            </td>
+            <td>
+                @Html.DisplayFor(x => staff.Contact)
+            </td>
+            <td>
+                @Html.DisplayFor(x => staff.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(x => staff.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(x => staff.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(x => staff.BookingDays)
+            </td>
+            <td>
+                @Html.DisplayFor(x => staff.Property)
+            </td>
+            <td>
+                @Html.DisplayFor(x => staff.Room)
+            </td>
+        </tr>
+    }
+</table>

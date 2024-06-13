@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\views\\home\\allreservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\views\\home\\allreservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\models\\customerreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\models\\customerreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\model\\hotelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\model\\hotelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\views\\home\\createbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\views\\home\\createbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\model\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\model\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|d:\\backups\\desktop bak after hack\\c#\\hotelbookingapp\\hotelbookingsweb\\model\\airbnbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA827-76FB-466B-96D3-6CBEE9E0EE10}|HotelBookingsWeb\\HotelBookingsWeb.csproj|solutionrelative:hotelbookingsweb\\model\\airbnbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HotelBookingsWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T09:02:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllReservations.cshtml",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Views\\Home\\AllReservations.cshtml",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Views\\Home\\AllReservations.cshtml",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Views\\Home\\AllReservations.cshtml",
+              "RelativeToolTip": "HotelBookingsWeb\\Views\\Home\\AllReservations.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T09:02:42.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelInfo.cs",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\HotelInfo.cs",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Model\\HotelInfo.cs",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\HotelInfo.cs",
+              "RelativeToolTip": "HotelBookingsWeb\\Model\\HotelInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\Property.cs",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Model\\Property.cs",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\Property.cs",
+              "RelativeToolTip": "HotelBookingsWeb\\Model\\Property.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:42.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Model\\Reservation.cs",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\Reservation.cs",
+              "RelativeToolTip": "HotelBookingsWeb\\Model\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerReservation.cs",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Models\\CustomerReservation.cs",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Models\\CustomerReservation.cs",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Models\\CustomerReservation.cs",
+              "RelativeToolTip": "HotelBookingsWeb\\Models\\CustomerReservation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:42.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HotelBookingsWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAD4vxsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:42.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBooking.cshtml",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Views\\Home\\CreateBooking.cshtml",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Views\\Home\\CreateBooking.cshtml",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Views\\Home\\CreateBooking.cshtml",
+              "RelativeToolTip": "HotelBookingsWeb\\Views\\Home\\CreateBooking.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T09:02:42.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Model\\DbContextFactory.cs",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\DbContextFactory.cs",
+              "RelativeToolTip": "HotelBookingsWeb\\Model\\DbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:42.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AirBnbContext.cs",
+              "DocumentMoniker": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\AirBnbContext.cs",
+              "RelativeDocumentMoniker": "HotelBookingsWeb\\Model\\AirBnbContext.cs",
+              "ToolTip": "D:\\Backups\\Desktop BAK after hack\\C#\\HotelBookingApp\\HotelBookingsWeb\\Model\\AirBnbContext.cs",
+              "RelativeToolTip": "HotelBookingsWeb\\Model\\AirBnbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:42.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

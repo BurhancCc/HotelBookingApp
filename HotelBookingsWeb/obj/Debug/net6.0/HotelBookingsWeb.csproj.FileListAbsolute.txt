@@ -1,0 +1,535 @@
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\appsettings.json
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.staticwebassets.runtime.json
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.exe
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.deps.json
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.runtimeconfig.json
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.pdb
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\DataAnnotationsExtensions.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Humanizer.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.AssemblyReference.cache
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.AssemblyInfoInputs.cache
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.AssemblyInfo.cs
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.CoreCompileInputs.cache
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.RazorAssemblyInfo.cache
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.RazorAssemblyInfo.cs
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\scopedcss\bundle\HotelBookingsWeb.styles.css
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.CopyComplete
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\refint\HotelBookingsWeb.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.pdb
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.genruntimeconfig.cache
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\ref\HotelBookingsWeb.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\MessagePack.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Common.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.Fody.CopyLocal.cache
+D:\Personal\burhanc0\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.Fody.RuntimeCopyLocal.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\appsettings.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.staticwebassets.runtime.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.exe
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.deps.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.runtimeconfig.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\HotelBookingsWeb.pdb
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\DataAnnotationsExtensions.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Humanizer.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\MessagePack.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Common.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.AssemblyReference.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.AssemblyInfoInputs.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.AssemblyInfo.cs
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.CoreCompileInputs.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.RazorAssemblyInfo.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.RazorAssemblyInfo.cs
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.Fody.CopyLocal.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.csproj.Fody.RuntimeCopyLocal.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets\msbuild.HotelBookingsWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.HotelBookingsWeb.props
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HotelBookingsWeb.props
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HotelBookingsWeb.props
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\scopedcss\bundle\HotelBookingsWeb.styles.css
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBoo.414C317E.Up2Date
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\refint\HotelBookingsWeb.dll
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.pdb
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\HotelBookingsWeb.genruntimeconfig.cache
+D:\Backups\Desktop BAK after hack\C#\HotelBookingApp\HotelBookingsWeb\obj\Debug\net6.0\ref\HotelBookingsWeb.dll
